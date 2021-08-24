@@ -1,3 +1,3 @@
-walletInvoiceDocument - нет мока кошелька
-walletOnBoarding - вебвью
-removeAutoRenewals - тест
+walletInvoiceDocument
+walletOnBoarding
+removeAutoRenewals

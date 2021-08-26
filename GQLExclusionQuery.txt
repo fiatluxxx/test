@@ -1,3 +1,2 @@
 walletInvoiceDocument
 walletOnBoarding
-removeAutoRenewals
